@@ -1,6 +1,6 @@
 KinectCar
 =========
-![image](https://github.com/jiaoxu/KinectCar/blob/master/screenshot.JPG)
+![image](https://raw.githubusercontent.com/jiaoxu/KinectCar/master/screenshot.JPG)
 Kinect control lego car
 
 1、air文件夹为识别Kinect程序（Intellij编写），KinectControl.as主文件，airkinect-2-core-mssdk.ane为air与Kinect通信接口。
